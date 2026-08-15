@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Extracting the full conductivity tensor in a rectangular sample"
+authors:
+  - family-names: Gelfond
+    given-names: Julia
+  - family-names: Vafek
+    given-names: Oskar
+repository-code: "https://github.com/jag47/Extracting-the-full-conductivity-tensor-in-a-rectangular-sample"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Extracting the full conductivity tensor in a rectangular sample"
+  authors:
+    - family-names: Gelfond
+      given-names: Julia
+    - family-names: Vafek
+      given-names: Oskar
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:2608.06643"
+      description: "arXiv preprint"
+  url: "https://arxiv.org/abs/2608.06643"
